@@ -1,0 +1,14 @@
+body {
+  background-color: #cbcdce;
+}
+.App {
+  text-align: center;
+  background-color: #cbcdce;
+  min-height: 100vh;
+}
+
+.banner-area{
+  height: 100px;
+  width: 100%;
+  background-color: #1f93cd;
+}
